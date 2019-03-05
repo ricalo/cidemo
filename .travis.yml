@@ -1,2 +1,2 @@
 language: minimal
-script: "! grep -rnw . -e snickerdoodle --exclude .travis.yml"
+script: "! grep -rnw . -e snickerdoodle --exclude .travis.yml --exclude-dir=.git"
