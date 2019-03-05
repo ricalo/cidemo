@@ -9,4 +9,4 @@ Eye contact
 To help us see
 That maybe you put my litter box
 Too close to your favorite chair
-And I want a snickerdoodle!
+And I want a cookie, please
